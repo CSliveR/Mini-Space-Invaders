@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <script>
+        function menu() {
+            window.addEventListener('keydown', e => {
+            if (e.key == 's' || e.key == 'S') {
+                location.href = 'space.html';
+            }})
+        }
+        menu();
+    </script>
+
+    <div id="menu">
+        <img src="img/spaceInvaders.jpg" alt="logo spaceInvaders">    
+        <p id="begin">Appuyez sur S pour commencer</p>
+    </div>
+    
+</body>
+</html>

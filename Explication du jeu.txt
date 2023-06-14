@@ -1,0 +1,13 @@
+Le jeu est un Space Invaders simplifié.
+
+Il y a un menu où il faut appuyez sur 'S' pour commencer à jouer.
+
+Le but du jeu est d'esquiver avec le vaisseau les boules de feu qui déferlent en utilisant les flèches directionnelles afin de survivre le plus longtemps possible à un nombre de vagues de boules de feu aléatoire.
+
+Si le vaisseau est touché par une boule de feu, la partie est perdue.
+
+Si le vaisseau n'a jamais été touché et que toutes les vagues ont été passées, la partie est gagnée.
+
+On peut recharger une partie en appuyant sur la touche 'C' et recommencer à jouer.
+
+(Note: Pouvez-vous m'envoyer une correction pour les collisions si elles ne marchent pas, ça serait très intéressant. Merci !)
